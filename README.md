@@ -52,10 +52,6 @@
 
 ## 🏅 Profile Badges
 
-![GitHub Followers](https://img.shields.io/github/followers/Arpanchakraborty2000?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Arpanchakraborty2000?label=Stars&style=social)
-![Visits](https://komarev.com/ghpvc/?username=Arpanchakraborty2000&color=blue&style=flat-square)
-
 ![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Red Hat Certified](https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![OpenShift Expert](https://img.shields.io/badge/OpenShift-Expert-E00?style=for-the-badge&logo=redhat&logoColor=white)
