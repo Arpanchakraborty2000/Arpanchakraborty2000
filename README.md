@@ -52,11 +52,10 @@
 
 ## 🏅 Profile Badges
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
-  <img src="https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified" />
-  <img src="https://img.shields.io/badge/OpenShift-Expert-E00?style=for-the-badge&logo=redhat&logoColor=white" alt="OpenShift Expert" />
-</p>
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Red Hat Certified](https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![OpenShift Expert](https://img.shields.io/badge/OpenShift-Expert-E00?style=for-the-badge&logo=redhat&logoColor=white)
+
 
 ---
 
